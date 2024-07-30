@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}a3ad57281675f52c3ecd1483613bb26552cb911a3c233c0efe4891a3089c2f3e216f83cffb472fecc98e6d38a8568d7a"
